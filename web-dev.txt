@@ -3,4 +3,6 @@ Belajar Web Development :
 - CSS
 - JAVASCRIPT
 - GITHUB
-- JAVASCRIPT LIBRABRIES
+- JAVASCRIPT LIBRARIES
+
+- Meningkatkan wawasan pada bidang cyber security
